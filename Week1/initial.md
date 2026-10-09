@@ -1,0 +1,7 @@
+In a project to develop a sensor data collection system for a company, I worked as the leader of the development team. One of the main challenges was that team members had different levels of technical knowledge and sometimes had different understandings of the system.
+
+The project involved a company representative, graduate students who provided advice, and students who developed the system. We shared information through regular meetings and online messages. We also discussed problems individually and checked the system during development. However, because each member had different knowledge and experience, we sometimes had different ideas about the functions and how to develop them. As a result, we had to change or redo some parts of the system. This caused extra work and slowed down our progress.
+
+As the team leader, I tried to make each member's role clear and help everyone understand how different parts of the system worked together. However, looking back, I think I could have managed the team more effectively. For example, I should have written down the requirements and responsibilities at the beginning of the project and made sure everyone agreed on them. I also should have checked our progress and shared our work more often to find misunderstandings earlier.
+
+Through this experience, I learned that a good leader needs not only to manage the schedule but also to make sure that all team members have a common understanding. I believe clear communication and regular discussions are important for successful teamwork.
